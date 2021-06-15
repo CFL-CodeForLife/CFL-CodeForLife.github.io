@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /cv
+Allow: /MUST/IT/*
+Allow: /Floppy-Bird2D_Game
+Allow: /MatchColors2D_Game
+Allow: /Islamic-prayer-times-demo
+Allow: /el-ka3ba_el-charifa
+Allow: /what-is-my-ip
+Allow: /what-is-my-location
+Allow: /fix-typo
+
+
+Disallow: /images
+Disallow: /include
+Disallow: /css
+Disallow: /php
+Disallow: /js
+Disallow: /fonts
+Disallow: /Error
+Disallow: /api
+Disallow: /.well-known
+Disallow: /test
+
+
